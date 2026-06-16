@@ -1,0 +1,8 @@
+Scene-FSD (Scene-oriented Fire and Smoke Dataset) is a large-scale dataset constructed from real surveillance systems for fire and smoke detection. It covers four key early-warning scenarios: transportation, open industrial sites, forest monitoring, and high‑rise buildings. All images are sourced from real surveillance scenarios and manually annotated using LabelImg.
+
+This release contains a partial subset of the full dataset. The complete dataset will be made publicly available upon paper acceptance.
+
+🔗 Download Link (Baidu Netdisk)
+Link: https://pan.baidu.com/s/1G-BpNu3jrnbsyLxi9a9kBw
+
+Extraction Code: ibf9
